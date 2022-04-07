@@ -44,14 +44,14 @@ p{
 }
 
 .banner {
-    height: 500px;
-    background-image: url(Aula_HTML_CSS/imgs/bg-jelly-fish-para_outras_pags.png);
-    background-size: cover;
+    height: 800%;
+    background-image: url(pexels-josh-sorenson-391522.jpg);
+    background-size: flex;
     color: white;
 }
 .banner .card {
     background-color: rgb(150, 158, 158);
-    height: 450px;
+    height: 650px;
     width: 400px;
     display: flex;
     flex-direction: column;
